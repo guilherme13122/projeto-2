@@ -11,4 +11,6 @@ body{
 
 button{
     background-color: rgb(38, 158, 38);
+    color: white;
+    font-family: "Meow Script", cursive;
 }
