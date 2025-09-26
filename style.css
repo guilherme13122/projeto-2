@@ -1,7 +1,7 @@
 body{
     background-color: rgb(1, 68, 1);
     color: white;
-     font-family: "Bitcount Single Ink", system-ui;
+    font-family: "Merriweather", serif;
      display: flex;
      justify-content: center;
      align-items: center;
@@ -12,5 +12,5 @@ body{
 button{
     background-color: rgb(38, 158, 38);
     color: white;
-    font-family: "Bitcount Single Ink", system-ui;
+    font-family: "Merriweather", serif;
 }
