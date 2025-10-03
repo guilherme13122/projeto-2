@@ -14,3 +14,11 @@ button{
     color: white;
     font-family: "Merriweather", serif;
 }
+
+.passo{
+    display: nome;
+}
+
+.passo.ativo {
+    display:block;
+}
